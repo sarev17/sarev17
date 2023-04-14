@@ -24,11 +24,15 @@
 </div>
 <div id="projects">
     <br><br>
-    :rocket: Curso de desenvolvimento WEB. Do HTML ao Laravel
-    <br><br>
+   <h2> :rocket: Curso de desenvolvimento WEB. Do HTML ao Laravel</h2>
     <a href="https://magnetic-cucumber-759.notion.site/M-dulo-1-36fda31ead704f8c9aae2cce1e87f5ed"><img style="width:12pt" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"></img> Módulo 1: Introdução a WEB
     </a>
     <br><a href="https://magnetic-cucumber-759.notion.site/M-dulo-2-a24b386b919a4804abc26f023477a8b8"><img style="width:15pt" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Webysther_20160423_-_Elephpant.svg/2560px-Webysther_20160423_-_Elephpant.svg.png"></img> Módulo 2: PHP
+    </a>
+    <h2> :rocket: Curso de GIT com GITHUB</h2>
+    <a href="https://magnetic-cucumber-759.notion.site/Minicurso-de-GIT-4f5c22cb231c45159838390441378c2b"><img style="width:12pt" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"></img> Introdução ao GIT
+    </a>
+    <br><a href="https://magnetic-cucumber-759.notion.site/Avan-ando-no-GIT-bc7b9997bc35460c9f273393674d8f75"><img style="width:12pt" src="https://git-scm.com/images/logos/downloads/Git-Icon-White.png"></img> Avançando com GIT
     </a>
 </div>
 <hr>
