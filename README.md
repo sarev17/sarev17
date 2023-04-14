@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img style="width: 11rem" src="https://media.licdn.com/dms/image/D4D03AQEUO6oHx6-cMw/profile-displayphoto-shrink_800_800/0/1681501355560?e=1686787200&v=beta&t=ngF6QMh6Fy6re8x5jt-dAXNE2WLIqHlXlkiJOslg-44"/>
+    <img src="https://storage-prod-par1-b.uploadnow.io/files?linkId=55f92e1a-956e-4c05-a0c9-d411cd4b8bab" alt="My Image" style="border-radius: 50%;" />
 </div>
 <br>
 <div align="center" id="badges">
