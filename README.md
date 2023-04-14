@@ -1,8 +1,16 @@
 <div id="header" align="center">
-  <img style="width:23rem;height:12rem;" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+  <img style="width: 11rem" src="https://media.licdn.com/dms/image/D4D03AQEUO6oHx6-cMw/profile-displayphoto-shrink_800_800/0/1681501355560?e=1686787200&v=beta&t=ngF6QMh6Fy6re8x5jt-dAXNE2WLIqHlXlkiJOslg-44"/>
 </div>
 <br>
 <div align="center" id="badges">
+  <img style="width:46px;" src="https://user-images.githubusercontent.com/49326163/232122270-084f5402-a368-4b85-bd0a-39450338944b.png"></img>
+  <img style="width:65px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Webysther_20160423_-_Elephpant.svg/2560px-Webysther_20160423_-_Elephpant.svg.png"></img>
+  <img style="width:48px;" src="https://s3-eu-west-1.amazonaws.com/bucketeer-688d8e11-8fc6-459f-bb52-26fd21452913/2020/03/AcA2LnWL_400x400.jpg"></img>
+  <img style="width:48px;" src="https://user-images.githubusercontent.com/49326163/232121395-8c3cf778-d935-4c78-9579-108f67c41202.png"></img>
+  <img style="width:51px;" src="https://logospng.org/download/css-3/logo-css-3-768.png"></img>
+  <img style="width:50px;" src="https://user-images.githubusercontent.com/49326163/232125164-6ee463fa-242e-4d14-9d6d-5b2adc1133ef.png"></img>
+  <img style="width:78px;" src="https://user-images.githubusercontent.com/49326163/232122813-b9cdc221-613e-4ca7-9358-14d8b811af3a.png"></img>
+  <br><br>
   <a target="_blank" href="https://www.linkedin.com/in/andreverasti/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -15,15 +23,7 @@
 </div>
 <hr>
 <div align="center" id="icons">
-  :hammer_and_wrench: Skills :
-  <br><br>
-  <img style="width:46px;" src="https://user-images.githubusercontent.com/49326163/232122270-084f5402-a368-4b85-bd0a-39450338944b.png"></img>
-  <img style="width:65px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Webysther_20160423_-_Elephpant.svg/2560px-Webysther_20160423_-_Elephpant.svg.png"></img>
-  <img style="width:48px;" src="https://s3-eu-west-1.amazonaws.com/bucketeer-688d8e11-8fc6-459f-bb52-26fd21452913/2020/03/AcA2LnWL_400x400.jpg"></img>
-  <img style="width:48px;" src="https://user-images.githubusercontent.com/49326163/232121395-8c3cf778-d935-4c78-9579-108f67c41202.png"></img>
-  <img style="width:51px;" src="https://logospng.org/download/css-3/logo-css-3-768.png"></img>
-  <img style="width:50px;" src="https://user-images.githubusercontent.com/49326163/232125164-6ee463fa-242e-4d14-9d6d-5b2adc1133ef.png"></img>
-  <img style="width:78px;" src="https://user-images.githubusercontent.com/49326163/232122813-b9cdc221-613e-4ca7-9358-14d8b811af3a.png"></img>
+ 
 </div>
 <hr>
 <div align="center">
