@@ -21,6 +21,9 @@
   <a target="_blank" href="https://www.instagram.com/andre.veraas/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Twitter Badge"/>
    </a>
+   <a target="_blank" href="https://www.youtube.com/@andreveras2010/videos">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+   </a>
 </div>
 <div id="projects">
     <br><br>
