@@ -1,7 +1,11 @@
 <div id="header" align="center">
-    <img style="width:12rem" src="https://github.com/sarev17/sarev17/blob/main/rounded-in-photoretrica.png?raw=true" alt="My Image" style="border-radius: 50%;" />
+    <div style="display:flex; align-items:center; justify-content:center">
+        <div style="height: 1.5rem; width: 1.5rem; background-color: #007bff; border-radius: 50%; margin-right: 0.5rem;"></div>
+        <img style="width:12rem" src="https://github.com/sarev17/sarev17/blob/main/rounded-in-photoretrica.png?raw=true" alt="My Image" style="border-radius: 50%;" />
+    </div>
     <br><br>
-    <p>Desenvolvedor WEB | PHP | LARAVEL</p>
+    <p style="font-size: 1.5rem;">André Veras &#x25cf; Desenvolvedor WEB | PHP | LARAVEL</p>
+    <p>🖥️ Engenharia da Computação<p>
 </div>
 <div align="center" id="badges">
   <img style="width:26px;" src="https://user-images.githubusercontent.com/49326163/232122270-084f5402-a368-4b85-bd0a-39450338944b.png"></img>
@@ -14,9 +18,6 @@
   <br><br>
   <a target="_blank" href="https://www.linkedin.com/in/andreverasti/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a target="_blank" href="https://api.whatsapp.com/send?phone=5588981700168">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
   <a target="_blank" href="https://www.instagram.com/andre.veraas/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Twitter Badge"/>
