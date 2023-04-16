@@ -1,6 +1,16 @@
 <div id="header">
-<p>Bem vindo! Sou o André.</p>
-<p>Estudante de Engenharia da computação e de desenvolvedor WEB. </p>
+<p>Bem vindo! Sou o André. Estudante de Engenharia da computação e desenvolvedor WEB.</p>
+    <p> Alguns projetos que desenvolvi 👇</p>
+<h3>Cursos 🎓</h3>
+<p>
+    <a href="https://magnetic-cucumber-759.notion.site/C-lula-de-Desenvolvimento-WEB-065dcdb215674e6496f7d464123684cc"><img style="width: 11pt;" src="https://camo.githubusercontent.com/8afddbfb083696cf20aad7cbcbd8fbb89e8eb925e200a06935267746bc160372/68747470733a2f2f73332d65752d776573742d312e616d617a6f6e6177732e636f6d2f6275636b65746565722d36383864386531312d386663362d343539662d626235322d3236666432313435323931332f323032302f30332f416341324c6e574c5f343030783430302e6a7067">   Celula de Desenvolvimento WEB</a>
+    <br><a href="https://magnetic-cucumber-759.notion.site/Minicurso-de-GIT-4f5c22cb231c45159838390441378c2b"><img style="width: 11pt;" src="https://user-images.githubusercontent.com/49326163/232125164-6ee463fa-242e-4d14-9d6d-5b2adc1133ef.png">   Minicurso de Git</a>
+    <br><a href="https://magnetic-cucumber-759.notion.site/Avan-ando-no-GIT-bc7b9997bc35460c9f273393674d8f75"><img style="width: 11pt;" src="https://git-scm.com/images/logos/downloads/Git-Icon-White.png">   Avançando com Git</a>
+</p>
+<h3>Sistemas 🖥️</h3>
+    <a href="https://lifecentershop.com.br/">Life Center Shop</a> - Marketplace de produtos e serviços médicos
+    <br><a href="https://www.itaingressos.fun/">ItaIngressos</a> - Sistema para venda de Ingressos Online
+    <br><a href="">Indenize</a> - Advogado Virtual
 <div>
     <img align="right" style="width: 20rem;" src="https://github.com/sarev17/sarev17/raw/main/Vertical%20Business%20Card.png" alt="">
 </div>
