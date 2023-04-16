@@ -43,7 +43,7 @@
 
 <div align="center">
   <br><br>
-  <img style="max-width: 400px" src="https://github-readme-streak-stats.herokuapp.com/?user=sarev17&theme=dark"></img>
-  <img style="max-width: 400px" src="https://github-readme-stats.vercel.app/api?username=sarev17&show_icons=true&theme=dark&count_private=true"></img>
+  <img style="width:26rem" src="https://github-readme-streak-stats.herokuapp.com/?user=sarev17&theme=dark"></img>
+  <img style="width:25rem" src="https://github-readme-stats.vercel.app/api?username=sarev17&show_icons=true&theme=dark&count_private=true"></img>
 </div>
 <hr>
