@@ -15,7 +15,7 @@
     <br><a href="">Indenize</a> - Advogado Virtual
       
  </div> 
- <br><br><br>
+ <br><br>
   <img style="width:26px;" src="https://user-images.githubusercontent.com/49326163/232122270-084f5402-a368-4b85-bd0a-39450338944b.png"></img>
   <img style="width:45px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Webysther_20160423_-_Elephpant.svg/2560px-Webysther_20160423_-_Elephpant.svg.png"></img>
   <img style="width:28px;" src="https://s3-eu-west-1.amazonaws.com/bucketeer-688d8e11-8fc6-459f-bb52-26fd21452913/2020/03/AcA2LnWL_400x400.jpg"></img>
@@ -39,9 +39,7 @@
    </a>
 </div>
 
-<hr>
 <div align="center">
-  :fire: My Stats :
   <br><br><img src="https://github-readme-streak-stats.herokuapp.com/?user=sarev17&theme=dark"></img>
   <img src="https://github-readme-stats.vercel.app/api?username=sarev17&show_icons=true&theme=dark&count_private=true"></img>
 </div>
