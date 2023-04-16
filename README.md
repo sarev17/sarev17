@@ -15,7 +15,7 @@
   <img style="width:58px;" src="https://user-images.githubusercontent.com/49326163/232122813-b9cdc221-613e-4ca7-9358-14d8b811af3a.png"></img>
   <img style="width:58px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/AJAX_logo_by_gengns.svg/1200px-AJAX_logo_by_gengns.svg.png"></img>
   <img style="width:58px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Logo_jQuery.svg/1280px-Logo_jQuery.svg.png"></img>
-  <img style="width:58px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2560px-Amazon_Web_Services_Logo.svg.png"></img>
+  <img style="width:38px;" src="https://github.com/sarev17/sarev17/blob/main/Sem%20T%C3%ADtulo-7.png"></img>
   
   <br><br>
   <a target="_blank" href="https://www.linkedin.com/in/andreverasti/">
