@@ -1,8 +1,9 @@
 <div id="header">
-    <section>
-        <div>teste</div>
-        <div><img src=""></div>
-    </section>
+<p>Bem vindo! Sou o André.</p>
+<p>Estudante de Engenharia da computação e de desenvolvedor WEB. </p>
+<div>
+    <img align="right" style="width: 20rem;" src="https://github.com/sarev17/sarev17/raw/main/Vertical%20Business%20Card.png" alt="">
+</div>
 </div>  
 <div align="center" id="badges">
   <img style="width:26px;" src="https://user-images.githubusercontent.com/49326163/232122270-084f5402-a368-4b85-bd0a-39450338944b.png"></img>
@@ -14,6 +15,8 @@
   <img style="width:58px;" src="https://user-images.githubusercontent.com/49326163/232122813-b9cdc221-613e-4ca7-9358-14d8b811af3a.png"></img>
   <img style="width:58px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/AJAX_logo_by_gengns.svg/1200px-AJAX_logo_by_gengns.svg.png"></img>
   <img style="width:58px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Logo_jQuery.svg/1280px-Logo_jQuery.svg.png"></img>
+  <img style="width:58px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2560px-Amazon_Web_Services_Logo.svg.png"></img>
+  
   <br><br>
   <a target="_blank" href="https://www.linkedin.com/in/andreverasti/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
