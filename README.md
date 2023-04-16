@@ -1,10 +1,9 @@
-<div id="header" align="center">
-    <table>
-        <tr>
-            <td></td>
-            <td><img src=""></td>
-        <tr>
-    </table>
+<div id="header">
+    <section>
+        <div>teste</div>
+        <div><img src=""></div>
+    </section>
+</div>  
 <div align="center" id="badges">
   <img style="width:26px;" src="https://user-images.githubusercontent.com/49326163/232122270-084f5402-a368-4b85-bd0a-39450338944b.png"></img>
   <img style="width:45px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Webysther_20160423_-_Elephpant.svg/2560px-Webysther_20160423_-_Elephpant.svg.png"></img>
